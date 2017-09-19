@@ -16,6 +16,7 @@ Scripts from the scraping workshop used in http://tucarro.com
 BS4 Documentation - http://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
 <hr>
+
 ### Optional
 
 You can change the parser and use these instead:
